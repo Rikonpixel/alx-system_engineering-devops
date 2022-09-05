@@ -1,0 +1,4 @@
+#!/bin/bash
+# My first script
+echo "Hello' World".
+ls > 0-hello_world.text
