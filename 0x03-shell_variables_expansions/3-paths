@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -lR | grep ^d | wc -1
+#!/bash/bin
+find $PATH=/bin::::/home:/usr:::::/home/me | wc -1
